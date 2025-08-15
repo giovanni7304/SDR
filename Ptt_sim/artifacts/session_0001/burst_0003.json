@@ -1,0 +1,15 @@
+{
+  "audio_wav_path": "artifacts/session_0001\\burst_0003_audio.wav",
+  "bitstream_hex": "",
+  "burst_id": 3,
+  "cfo_hz": 68.00874140390664,
+  "crc_ok": null,
+  "file": "simulated",
+  "modulation": "NBFM",
+  "occupied_bw_hz": -1078.125,
+  "sample_rate_hz": 48000,
+  "snr_db": NaN,
+  "symbol_rate_baud": null,
+  "t_start_s": 2.3950833333333335,
+  "t_stop_s": 3.2049583333333334
+}
