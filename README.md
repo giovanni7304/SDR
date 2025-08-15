@@ -1,3 +1,10 @@
+####################################################################################################
+#
+# This is my first draft
+# Many more demod coming soon
+#
+# These will eventually work with the RTL-SDR USB
+####################################################################################################
 # SDR PTT Pipeline
 
 An end-to-end SDR development pipeline in Python for simulating push-to-talk (PTT) radio signals,
