@@ -3,7 +3,7 @@
 # This is my first draft
 # Many more demod coming soon
 #
-# These will eventually work with the RTL-SDR USB
+# These will eventually work with the RTL-SDR USB for Educational purposes
 ####################################################################################################
 # SDR PTT Pipeline
 
